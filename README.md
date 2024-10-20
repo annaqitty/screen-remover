@@ -1,7 +1,5 @@
 # screen-remover
 
-# Splitter With Delimeter
-
 <h3>Usage Example</h3>
 <ul>
     <li><strong>Terminal Code</strong>:
