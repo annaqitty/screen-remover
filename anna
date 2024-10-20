@@ -1,0 +1,15 @@
+ screen -ls
+
+screen -S 24840 -X quit
+screen -S 24531 -X quit
+screen -S 24528 -X quit
+screen -S 24507 -X quit
+screen -S 24504 -X quit
+screen -S 24497 -X quit
+screen -S 24480 -X quit
+screen -S 24488 -X quit
+screen -S 24474 -X quit
+screen -S 24460 -X quit
+screen -S 24449 -X quit
+screen -S 24445 -X quit
+screen -S 24442 -X quit
